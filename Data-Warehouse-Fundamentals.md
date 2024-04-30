@@ -1,4 +1,5 @@
 # Cube
+[Google](https://binaryterms.com/data-cube.html)
 - Multi-dimensional structure data storage
 - Stores the precomputed data and eases online analytical processing (OLAP).
 - Data representation: Dimensions and Facts
