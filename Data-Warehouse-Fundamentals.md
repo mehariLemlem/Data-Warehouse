@@ -9,7 +9,7 @@
 - Basic Category: Multi-dimensional Data Cube (MOLAP); Relational Data Cube (ROLAP); Hybrid Data Cube (HOLAP)
 - Operation on Data Cube:
     * **Roll Up:** summarizes or aggregates the dimensions either by performing dimension reduction or you can perform concept hierarchy.
-    ![image](RollUp.png)
+    * ![image](RollUp.png)
     * **Drill Down:** fragmenting into granular form
     * ![image](drillDown.png)
     * **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
