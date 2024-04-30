@@ -15,3 +15,5 @@
     * **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
     * ![image](Slice.png)
     * ![image](Dice.png)
+    * **Pivot:** 
+    * ![image](![img.png](img.png))
