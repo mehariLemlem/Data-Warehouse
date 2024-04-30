@@ -8,12 +8,12 @@
 - Fact: Numeric measures
 - Basic Category: Multi-dimensional Data Cube (MOLAP); Relational Data Cube (ROLAP); Hybrid Data Cube (HOLAP)
 - Operation on Data Cube:
-    * **Roll Up:** summarizes or aggregates the dimensions either by performing dimension reduction or you can perform concept hierarchy.
+  1. **Roll Up:** summarizes or aggregates the dimensions either by performing dimension reduction or you can perform concept hierarchy.
     * ![image](RollUp.png)
-    * **Drill Down:** fragmenting into granular form
+  2. **Drill Down:** fragmenting into granular form
     * ![image](drillDown.png)
-    * **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
+  3. **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
     * ![image](Slice.png)
     * ![image](Dice.png)
-    * **Pivot:** Pivot is not a calculative operation actually it rotates the data cube in order to view data cube from different dimensions.
+  4. **Pivot:** Pivot is not a calculative operation actually it rotates the data cube in order to view data cube from different dimensions.
     * ![image](Pivot.png)
