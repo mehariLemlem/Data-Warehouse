@@ -1,7 +1,7 @@
 # Cube
 [Google](https://binaryterms.com/data-cube.html)
 - Multi-dimensional structure data storage
-- ![image](Cube.png)
+![image](Cube.png)
 - Stores the precomputed data and eases online analytical processing (OLAP).
 - Data representation: Dimensions and Facts
 - Dimensions: attitude, angle or the entities with respect to which the enterprise wants to store the data
@@ -9,8 +9,8 @@
 - Basic Category: Multi-dimensional Data Cube (MOLAP); Relational Data Cube (ROLAP); Hybrid Data Cube (HOLAP)
 - Operation on Data Cube:
     * **Roll Up:** summarizes or aggregates the dimensions either by performing dimension reduction or you can perform concept hierarchy.
-    * ![image](RollUp.png)
+  ![image](RollUp.png)
     * **Drill Down:** fragmenting into granular form
-    * ![image](drillDown.png)
+  ![image](drillDown.png)
     * **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
-    * ![image](img.png)
+  ![image](img.png)
