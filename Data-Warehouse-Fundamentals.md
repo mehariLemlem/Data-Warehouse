@@ -15,5 +15,5 @@
     * **Slice and Dice:** pick up one dimension of the data cube and then forms a sub-cube out of it.
     * ![image](Slice.png)
     * ![image](Dice.png)
-    * **Pivot:** 
+    * **Pivot:** Pivot is not a calculative operation actually it rotates the data cube in order to view data cube from different dimensions.
     * ![image](Pivot.png)
