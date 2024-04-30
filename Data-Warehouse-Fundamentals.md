@@ -16,4 +16,4 @@
     * ![image](Slice.png)
     * ![image](Dice.png)
     * **Pivot:** 
-    * ![image](![img.png](img.png))
+    * ![image](Pivot.png)
